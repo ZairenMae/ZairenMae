@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ZairenMae
-- 👀 I’m interested in anime, kpop, jpop, enhypen(sunghoon), learning coding
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me out on here and i don't bite unless i hate you
+
 
   
 
