@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZairenMae
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning threejs
 - 💞️ I’m looking to collaborate on everything
 
 
